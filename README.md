@@ -208,42 +208,7 @@ categorized technology news.
   />
 </p>
 
-
-<!-- ======================= GITHUB TROPHIES ======================= -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=aman-bhadana-26&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
 <!-- ======================= GITHUB METRICS ======================= -->
-
-## 📌 GitHub Overview
-
-<p align="center">
-
-  <img
-    src="https://img.shields.io/github/stars/aman-bhadana-26?style=for-the-badge&logo=github&label=Stars"
-    alt="GitHub Stars"
-  />
-
-  <img
-    src="https://img.shields.io/github/followers/aman-bhadana-26?style=for-the-badge&logo=github&label=Followers"
-    alt="GitHub Followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/repo-size/aman-bhadana-26/NEWSY_DEMO?style=for-the-badge&label=NEWSY%20Size"
-    alt="Repository Size"
-  />
-
-</p>
-
 
 <!-- ======================= FEATURED PROJECTS ======================= -->
 
