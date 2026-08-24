@@ -165,19 +165,6 @@ categorized technology news.
   </a>
 </p>
 
-
-<!-- ======================= GITHUB ANALYTICS ======================= -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aman-bhadana-26&show_icons=true&hide_border=true"
-    alt="Aman Bhadana GitHub Stats"
-  />
-</p>
-
-
 <!-- ======================= STREAK ======================= -->
 
 ## 🔥 Contribution Streak
@@ -201,7 +188,6 @@ categorized technology news.
   />
 </p>
 
-<!-- ======================= GITHUB METRICS ======================= -->
 
 <!-- ======================= FEATURED PROJECTS ======================= -->
 
