@@ -38,34 +38,6 @@
 - 💬 Ask me about **Full-Stack Development, MERN, Next.js, APIs and MongoDB**
 - 📫 Reach me at **amanbhadana8800@gmail.com**
 
-
-<!-- ======================= CURRENT PROJECT ======================= -->
-
-## 🔭 Currently Working On
-
-### 📰 NEWSY — Technology News Platform
-
-A modern technology news platform designed to deliver personalized and
-categorized technology news.
-
-**Features & Technologies**
-
-- ⚡ Next.js
-- ⚛️ React
-- 🟦 TypeScript
-- 🎨 Tailwind CSS
-- 🟢 Node.js
-- 🚂 Express.js
-- 🍃 MongoDB
-- 🔐 JWT Authentication
-- 🌐 REST APIs
-- 📰 News API Integration
-
-<a href="https://github.com/aman-bhadana-26/NEWSY_DEMO">
-  <img src="https://img.shields.io/badge/View%20Project-NEWSY-blue?style=for-the-badge&logo=github" />
-</a>
-
-
 <!-- ======================= TECH STACK ======================= -->
 
 ## 🛠️ Tech Stack
